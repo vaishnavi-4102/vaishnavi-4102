@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vaishnavi Singh</h1>
-<h3 align="center">As a passionate student, I thrive on the thrill of exploring the uncharted territories of knowledge and eagerly embrace every opportunity to expand my horizons</h3>
+<h3 align="center">Backend Developer</h3>
 
 - 🔭 I’m currently working on **Python and Django framework**
 
