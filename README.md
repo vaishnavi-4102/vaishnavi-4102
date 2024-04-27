@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **Python and Django framework**
 
-- 🌱 I’m currently learning **Django**
-
 - 📫 How to reach me **vaishnavi.singh.4102@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1gZ-NuBUTUmvB0n9q-HHjn78Z7K56Ohgz?usp=drive_link](https://drive.google.com/drive/folders/1gZ-NuBUTUmvB0n9q-HHjn78Z7K56Ohgz?usp=drive_link)
